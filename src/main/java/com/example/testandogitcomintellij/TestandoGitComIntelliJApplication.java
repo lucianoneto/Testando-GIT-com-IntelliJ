@@ -9,6 +9,7 @@ public class TestandoGitComIntelliJApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(TestandoGitComIntelliJApplication.class, args);
 		System.out.println("Colocando o projeto do ItelliJ no GitHub");
+		System.out.println("Primeira alteração feita no código!");
 	}
 
 }
